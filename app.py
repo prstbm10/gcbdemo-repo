@@ -1,6 +1,6 @@
 from flask import Flask
 import os
-import sockett
+import socket
 
 app = Flask(__name__)
 
